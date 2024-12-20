@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/user/OneDrive/Documents/MLOps-master/MLOps-master/mlruns/541144248257148173/de1a3ed1f1004ad3a215585b758650ba/artifacts
+end_time: 1734723188610
+entry_point_name: ''
+experiment_id: '541144248257148173'
+lifecycle_stage: active
+run_id: de1a3ed1f1004ad3a215585b758650ba
+run_name: nervous-skink-713
+run_uuid: de1a3ed1f1004ad3a215585b758650ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723180406
+status: 3
+tags: []
+user_id: user

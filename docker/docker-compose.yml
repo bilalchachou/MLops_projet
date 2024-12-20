@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+
+
+  lgbm-api:
+    image: bchachou/lgbm-ml-api:latest
+    container_name: lgbm-api
+    ports:
+      - "5001:5001"
+    restart: always
+    environment:
+      - MODEL_PATH=/app/model/model.pkl
+      
+  prometheus:
+    image: prom/prometheus
+    container_name: prometheus
+    volumes:
+      - ../monitoring/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+    restart: always
+
+
+  grafana:
+    image: grafana/grafana
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    restart: always
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - ../monitoring/grafana:/var/lib/grafana
+
+
+  
+
+      
+      
+ 

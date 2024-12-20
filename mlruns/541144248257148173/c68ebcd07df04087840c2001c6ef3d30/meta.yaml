@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/user/OneDrive/Documents/MLOps-master/MLOps-master/mlruns/541144248257148173/c68ebcd07df04087840c2001c6ef3d30/artifacts
+end_time: 1734722683059
+entry_point_name: ''
+experiment_id: '541144248257148173'
+lifecycle_stage: active
+run_id: c68ebcd07df04087840c2001c6ef3d30
+run_name: gentle-bat-550
+run_uuid: c68ebcd07df04087840c2001c6ef3d30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734722673996
+status: 3
+tags: []
+user_id: user

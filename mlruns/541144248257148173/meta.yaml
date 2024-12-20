@@ -1,0 +1,6 @@
+artifact_location: file:c:/Users/user/OneDrive/Documents/MLOps-master/MLOps-master/mlruns/541144248257148173
+creation_time: 1734722672907
+experiment_id: '541144248257148173'
+last_update_time: 1734722672907
+lifecycle_stage: active
+name: lightgbm_classification_model

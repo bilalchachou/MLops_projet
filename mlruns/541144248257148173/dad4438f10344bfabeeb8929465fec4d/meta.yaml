@@ -1,0 +1,15 @@
+artifact_uri: file:c:/Users/user/OneDrive/Documents/MLOps-master/MLOps-master/mlruns/541144248257148173/dad4438f10344bfabeeb8929465fec4d/artifacts
+end_time: 1734723021080
+entry_point_name: ''
+experiment_id: '541144248257148173'
+lifecycle_stage: active
+run_id: dad4438f10344bfabeeb8929465fec4d
+run_name: angry-whale-166
+run_uuid: dad4438f10344bfabeeb8929465fec4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734723013289
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,8 @@
+flask
+scikit-learn
+pandas
+joblib
+lightgbm
+mlflow
+requests
+prometheus_client
